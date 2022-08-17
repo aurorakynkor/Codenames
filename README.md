@@ -3,6 +3,8 @@ Codenames Clue generator
 
 To Run:
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 
-jupyter notebook Codenames.ipynb```
+jupyter notebook Codenames.ipynb
+```
